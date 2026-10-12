@@ -118,13 +118,13 @@ Berikut dokumentasi hasil pengerjaan Praktikum 3:
 ![P3 G1 Foreground](screenshot/P3_G1Foreground.png)
 
 #### Gambar 2 — Implementasi State Background
-![P3 G2 State Background](screenshot/P3_G2State Background.png)
+![P3 G2 State Background](screenshot/P3_G2StateBackground.png)
 
 #### Gambar 3 — Implementasi State Terminated
-![P3 G3 State Terminated](screenshot/P3_G3State Terminated.png)
+![P3 G3 State Terminated](screenshot/P3_G3StateTerminated.png)
 
 #### Gambar 4 — Implementasi State Terminated
-![P3 G4 State Terminated](screenshot/P3_G4State Terminated.png)
+![P3 G4 State Terminated](screenshot/P3_G4StateTerminated.png)
 
 ---
 
@@ -155,13 +155,13 @@ Bagian refactoring berfokus pada evaluasi dan penyempurnaan struktur kode setela
 
 Screenshot berikut menunjukkan hasil pemeriksaan statis kode menggunakan perintah `flutter analyze`.
 
-![Refactoring Flutter Analyze](screenshot/re_FAnalyze.png)
+![Refactoring Flutter Analyze](screenshot/Re_FAnalyze.png)
 
 #### Gambar 2 — Hasil Flutter Test
 
 Screenshot berikut menunjukkan hasil pengujian otomatis menggunakan perintah `flutter test`.
 
-![Refactoring Flutter Test](screenshot/re_FTest.png)
+![Refactoring Flutter Test](screenshot/Re_FTest.png)
 
 ### 3. Kesimpulan Refactoring
 
