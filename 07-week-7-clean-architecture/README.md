@@ -117,7 +117,7 @@ Berikut dokumentasi hasil pengerjaan Praktikum 3:
 #### Gambar 1 — Implementasi Presentation Layer
 ![P3 G1 Foreground](screenshot/P3_G1Foreground.png)
 
-#### Gambar 2 — Implementasi State Background2
+#### Gambar 2 — Implementasi State Background
 ![P3 G2 State Background](screenshot/P3_G2State Background.png)
 
 #### Gambar 3 — Implementasi State Terminated
