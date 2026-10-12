@@ -1,5 +1,8 @@
 # 📱 Campus Notify - Laporan Modul Pemrograman Mobile
 
+<details>
+<summary><b>📖 Klik untuk Membuka Detail Laporan Praktikum</b></summary>
+
 ## 👤 Identitas Mahasiswa
 * **Nama**: Destian Dwi Hardika
 * **NIM**: 244107020203
@@ -34,37 +37,58 @@
 ### 1. Praktikum 1: Inisialisasi Proyek & Setup Firebase
 * **Deskripsi**: Melakukan konfigurasi awal proyek Flutter dan menghubungkannya dengan layanan Firebase.
 * **Hasil SS Praktikum**:
-  * **Gambar 1**: `![P1_G1](screenshot/P1_G1.png)`[cite: 2]
-  * **Gambar 2**: `![P1_G2](screenshot/P1_G2.png)`[cite: 2]
+
+![P1_G1](screenshot/P1_G1.png)
+
+![P1_G2](screenshot/P1_G2.png)
+
+---
 
 ### 2. Praktikum 2: Implementasi Autentikasi & State Management
 * **Deskripsi**: Membangun halaman login, manajemen status autentikasi menggunakan Riverpod, dan proteksi rute halaman menggunakan GoRouter.
 * **Hasil SS Praktikum**:
-  * **Gambar 1**: `![P2_G1](screenshot/P2_G1.png)`[cite: 2]
-  * **Gambar 2**: `![P2_G2](screenshot/P2_G2.png)`[cite: 2]
-  * **Gambar 3**: `![P2_G3](screenshot/P2_G3.png)`[cite: 2]
-  * **Gambar 4**: `![P2_G4](screenshot/P2_G4.png)`[cite: 2]
-  * **Gambar 5**: `![P2_G5](screenshot/P2_G5.png)`[cite: 2]
-  * **Gambar 6**: `![P2_G6](screenshot/P2_G6.png)`[cite: 2]
+
+![P2_G1](screenshot/P2_G1.png)
+
+![P2_G2](screenshot/P2_G2.png)
+
+![P2_G3](screenshot/P2_G3.png)
+
+![P2_G4](screenshot/P2_G4.png)
+
+![P2_G5](screenshot/P2_G5.png)
+
+![P2_G6](screenshot/P2_G6.png)
+
+---
 
 ### 3. Praktikum 3: Integrasi Firebase Cloud Messaging (FCM)
 * **Deskripsi**: Mengonfigurasi penanganan pesan *push notification* pada kondisi *foreground*, *background*, dan *terminated*.
 * **Hasil SS Praktikum**:
-  * **Gambar 1**: `![P3_G1](screenshot/P3_G1.png)`[cite: 2]
-  * **Gambar 2**: `![P3_G2](screenshot/P3_G2.png)`[cite: 2]
-  * **Gambar 3**: `![P3_G3](screenshot/P3_G3.png)`[cite: 2]
+
+![P3_G1](screenshot/P3_G1.png)
+
+![P3_G2](screenshot/P3_G2.png)
+
+![P3_G3](screenshot/P3_G3.png)
+
+---
 
 ### 4. Refactoring & Testing (Analisis & Pengujian)
 * **Deskripsi**: Melakukan perbaikan rute, struktur kode, analisis statis, serta eksekusi unit dan widget test.
 * **Hasil SS Praktikum**:
-  * **Flutter Analyze**: `![re_fanalyze](screenshot/re_fanalyze.png)`[cite: 2]
-  * **Flutter Test**: `![re_Ftest](screenshot/re_Ftest.png)`[cite: 2]
+
+* **Flutter Analyze**:
+![re_fanalyze](screenshot/re_fanalyze.png)
+
+* **Flutter Test**:
+![re_Ftest](screenshot/re_Ftest.png)
 
 ---
 
 ## 🧪 Kesimpulan Pengujian
-* **Flutter Analyze**: Berhasil melewati analisis statis tanpa error kritis[cite: 2].
-* **Flutter Test**: Seluruh skenario *unit test* dan *widget test* berhasil lolos (*Passed*)[cite: 2].
+* **Flutter Analyze**: Berhasil melewati analisis statis tanpa error kritis.
+* **Flutter Test**: Seluruh skenario *unit test* dan *widget test* berhasil lolos (*Passed*).
 
 ---
 </details>
