@@ -79,7 +79,7 @@
 * **Hasil SS Praktikum**:
 
 * **Flutter Analyze**:
-![re_fanalyze](screenshot/re_fanalyze.png)
+![re_fanalyze](screenshot/re_Fanalyze.png)
 
 * **Flutter Test**:
 ![re_Ftest](screenshot/re_Ftest.png)
