@@ -118,13 +118,13 @@ Berikut dokumentasi hasil pengerjaan Praktikum 3:
 ![P3 G1 Foreground](screenshot/P3_G1Foreground.png)
 
 #### Gambar 2 — Implementasi State Background
-![P3 G2 State Background](screenshot/P3_G2StateBackground.png)
+![P3 G2 State Background](screenshot/P3_G2State Background.png)
 
 #### Gambar 3 — Implementasi State Terminated
-![P3 G3 State Terminated](screenshot/P3_G3StateTerminated.png)
+![P3 G3 State Terminated](screenshot/P3_G3State Terminated.png)
 
 #### Gambar 4 — Implementasi State Terminated
-![P3 G4 State Terminated](screenshot/P3_G4StateTerminated.png)
+![P3 G4 State Terminated](screenshot/P3_G4State Terminated.png)
 
 ---
 
