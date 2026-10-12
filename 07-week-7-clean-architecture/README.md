@@ -155,13 +155,13 @@ Bagian refactoring berfokus pada evaluasi dan penyempurnaan struktur kode setela
 
 Screenshot berikut menunjukkan hasil pemeriksaan statis kode menggunakan perintah `flutter analyze`.
 
-![Refactoring Flutter Analyze](screenshot/re_FAnalyze.png)
+![Refactoring Flutter Analyze](screenshot/re_Fanalyze.png)
 
 #### Gambar 2 — Hasil Flutter Test
 
 Screenshot berikut menunjukkan hasil pengujian otomatis menggunakan perintah `flutter test`.
 
-![Refactoring Flutter Test](screenshot/re_FTest.png)
+![Refactoring Flutter Test](screenshot/re_Ftest.png)
 
 ### 3. Kesimpulan Refactoring
 
